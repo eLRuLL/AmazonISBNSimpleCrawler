@@ -12,3 +12,5 @@ class AmazonisbnItem(scrapy.Item):
     title = scrapy.Field()
     no_reviews = scrapy.Field()
     price = scrapy.Field()
+    found = scrapy.Field()
+    isbn = scrapy.Field()
