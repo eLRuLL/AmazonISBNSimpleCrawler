@@ -1,0 +1,2 @@
+-e git+git@github.com:scrapy/scrapy.git#egg=scrapy
+-e git+git@github.com:scrapinghub/scrapylib.git#egg=scrapylib
